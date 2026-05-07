@@ -7,6 +7,16 @@
 
 An AI-powered resume screening and matching system that automatically ranks candidates against job descriptions using fuzzy skill matching, sentence embeddings, and composite scoring formulas.
 
+## 📸 Screenshots
+
+![Screenshot 1](screenshots/Screenshot%202026-05-06%20175714.png)
+
+![Screenshot 2](screenshots/Screenshot%202026-05-06%20175730.png)
+
+![Screenshot 3](screenshots/Screenshot%202026-05-06%20175743.png)
+
+![Screenshot 4](screenshots/Screenshot%202026-05-06%20175754.png)
+
 ## 🎯 Problem Statement
 
 Recruiting teams face significant challenges when screening large volumes of resumes:
@@ -77,12 +87,10 @@ Automated-Resume-Screening-Tool/
 │   ├── resume_emma.txt
 │   └── job_data_analyst.json     # Sample job description
 │
+├── screenshots/                  # App screenshots
 ├── resumes/                      # Upload directory for resumes
-│
-├── outputs/                      # Ranking results storage
-│
+├── tool/                         # Tool utilities
 ├── docs/                         # Documentation
-│
 ├── notebooks/                    # Jupyter notebooks
 │
 ├── main.py                       # Entry point
